@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on creating a software to make campus life easier.
-- 🌱 I’m currently learning Phyton and web development.
+- 🌱 I’m currently learning Phyton and software development.
 - 👯 I’m looking to collaborate on ideas that tackle real world problems.
 - 🤔 I’m always willing to meet new people.
 - 💬 Ask me about anything regarding sports, economics and startups
