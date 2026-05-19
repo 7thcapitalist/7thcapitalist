@@ -8,7 +8,7 @@ Building at the intersection of **software, startups, venture, AI, and fintech**
 
 I am interested in venture capital, entrepreneurship, product engineering, AI tools, financial education, and scalable software systems.
 
-Currently building a startup in stealth, working on AI automation projects, and developing products that connect technology with education, finance, and real-world operations.
+Currently building a startup in stealth focused in changing how books are bought in the US, working on AI automation projects, and developing products that connect technology with education, finance, and real-world operations.
 
 ## Featured Public Projects
 
