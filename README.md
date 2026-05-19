@@ -1,6 +1,6 @@
 # João Vitor Carvalho
 
-**Economics & Computer Science @ University of Notre Dame**
+**Economics & Computer Science + Innovation & Entrepreneurship @ University of Notre Dame**
 
 Building at the intersection of **software, startups, venture, AI, and fintech**.
 
