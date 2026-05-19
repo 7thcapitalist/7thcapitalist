@@ -1,38 +1,50 @@
 # João Vitor Carvalho
 
-Economics & Computer Science @ University of Notre Dame
+**Economics & Computer Science @ University of Notre Dame**
 
-Building at the intersection of software, startups, and venture.
+Building at the intersection of **software, startups, venture, AI, and fintech**.
 
 ## About Me
 
-* Interested in venture capital, entrepreneurship, and product engineering
-* Currently building a startup in stealth
-* Exploring AI tools, developer workflows, and scalable software systems
+I am interested in venture capital, entrepreneurship, product engineering, AI tools, financial education, and scalable software systems.
+
+Currently building a startup in stealth, working on AI automation projects, and developing products that connect technology with education, finance, and real-world operations.
 
 ## Featured Public Projects
 
-* **Spotify Playlist Skill** — AI-powered playlist generator using the Spotify API to build event/concert playlists from artist lineups
+### [Escola do Real Showcase](https://github.com/7thcapitalist/Escola-do-Real-showcase)
+
+Public showcase for a private financial education app built for Brazilian users.
+
+**Stack:** React Native, Expo, TypeScript, Supabase
+
+### [OpenClaw Agents Headquarter](https://github.com/7thcapitalist/Openclaw-Agents-Headquarter)
+
+Local command center for running AI agents through a browser-based HQ with tracked runs, worker roles, and constrained execution.
+
+**Stack:** OpenClaw, Node.js, Express, SQLite, PM2, Tailscale
+
+### [Spotify Playlist Skill](https://github.com/7thcapitalist/spotify-playlist-skill)
+
+AI-powered Spotify playlist generator that turns natural-language prompts and artist lineups into real playlists.
+
+**Stack:** TypeScript, Node.js, Spotify Web API, OAuth
+
+### [Innovation as a Measure of Economic Growth](https://github.com/7thcapitalist/Innovation-as-a-measure-of-economic-growth)
+
+Interactive economics project exploring how innovation connects with growth and prosperity across countries.
+
+**Stack:** HTML, Bootstrap, Python, economic datasets, GitHub Pages
 
 ## Current Focus
 
-* Full-stack development
-* Systems design / scalable architecture
-* Startup and venture ecosystem
+- Full-stack development
+- AI agents and automation
+- Fintech and financial education
+- Startup and venture ecosystem
+- Systems design and scalable architecture
+- Product engineering
 
 ## Connect
 
-* LinkedIn: https://www.linkedin.com/in/joao-vitor-carvalho1/
-
-<!--
-**7thcapitalist/7thcapitalist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on creating a software to make campus life easier.
-- 🌱 I’m currently learning Phyton and web development.
-- 👯 I’m looking to collaborate on ideas that tackle real world problems.
-- 🤔 I’m always willing to meet new people.
-- 💬 Ask me about anything regarding sports, economics and startups
-- 📫 How to reach me: joaovitordecastrocarvalho@gmail.com
--->
+**LinkedIn:** https://www.linkedin.com/in/joao-vitor-carvalho1/
