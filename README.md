@@ -1,50 +1,33 @@
 # João Vitor Carvalho
 
-**Economics & Computer Science + Innovation & Entrepreneurship @ University of Notre Dame**
+CS + Economics at the **University of Notre Dame** (class of 2029), from Goiânia, Brazil. Building a startup with two co-founders and working on venture capital and AI agents on the side.
 
-Building at the intersection of **software, startups, venture, AI, and fintech**.
+## What I'm building
 
-## About Me
+**[AI4accounting](https://github.com/7thcapitalist/AI4accounting)**: AI agents that do the recurring work of Brazilian accounting firms (document collection, checking, reconciliation, tax calculation), sold to the firms as software. A human accountant reviews and signs off; every output traces back to its source document. Brazil's tax reform (CBS/IBS, 2026-2033) forces firms to run two tax systems in parallel for years, which is why now.
 
-I am interested in venture capital, entrepreneurship, product engineering, AI tools, financial education, and scalable software systems.
+Stage: just starting, no funding. There is a working demo on simulated data ([ai4accounting.vercel.app](https://ai4accounting.vercel.app)) and I am running conversations with accounting firms. The repo is public and developed agent-first, through PRs.
 
-Currently building a startup in stealth , working on AI automation projects, and developing products that connect technology with education, finance, and real-world operations.
+Co-founders: Vitor Cezario (Harvard) and Pedro Joviano (UChicago). All three of us write code.
 
-## Featured Public Projects
+## Background
 
-### [Escola do Real Showcase](https://github.com/7thcapitalist/Escola-do-Real-showcase)
+- **Norte Ventures** (São Paulo, summer 2026): sourced and diligenced early-stage startups, presented 10+ to the investment committee, and helped build the firm's internal platform (500+ commits, 20+ agents and tools).
+- **Notre Dame Venture Capital**: General Partner on the Norte project; earlier Project Associate for Bain Capital and Teamworthy Ventures.
+- **Escola do Real**: financial education NGO I co-founded in high school. 45 volunteers, 4,000+ students taught, 6+ Brazilian states.
+- Silver medal, International Economics Olympiad (2024); Brazilian national debate team.
 
-Public showcase for a private financial education app built for Brazilian users.
+## Public projects
 
-**Stack:** React Native, Expo, TypeScript, Supabase
+| Project | What it is | Stack |
+|---|---|---|
+| [AI4accounting](https://github.com/7thcapitalist/AI4accounting) | AI agents for Brazilian accounting firms (my current startup) | TypeScript, Next.js, Vercel |
+| [Hackhaton](https://github.com/7thcapitalist/Hackhaton) | Mission Control, our SprintHack@ND 2026 entry: sales pulse, COO scorecard and month-end close for Goodwill Michiana (synthetic data) | Next.js, Turso, Drizzle |
+| [Escola-do-Real-showcase](https://github.com/7thcapitalist/Escola-do-Real-showcase) | Showcase of my financial education app for Brazilians (source is private) | React Native, Expo, Supabase |
+| [Norte-NDVC](https://github.com/7thcapitalist/Norte-NDVC) | Static site tracking the founder pipeline NDVC sourced for Norte | HTML, JSON |
+| [spotify-playlist-skill](https://github.com/7thcapitalist/spotify-playlist-skill) | CLI that turns a prompt into a real Spotify playlist, with AI similar-artist expansion | TypeScript, Node.js |
+| [Innovation-as-a-measure-of-economic-growth](https://github.com/7thcapitalist/Innovation-as-a-measure-of-economic-growth) | Data-storytelling site and regression paper on innovation and GDP per capita | HTML, Bootstrap |
 
-### [OpenClaw Agents Headquarter](https://github.com/7thcapitalist/Openclaw-Agents-Headquarter)
+## Contact
 
-Local command center for running AI agents through a browser-based HQ with tracked runs, worker roles, and constrained execution.
-
-**Stack:** OpenClaw, Node.js, Express, SQLite, PM2, Tailscale
-
-### [Spotify Playlist Skill](https://github.com/7thcapitalist/spotify-playlist-skill)
-
-AI-powered Spotify playlist generator that turns natural-language prompts and artist lineups into real playlists.
-
-**Stack:** TypeScript, Node.js, Spotify Web API, OAuth
-
-### [Innovation as a Measure of Economic Growth](https://github.com/7thcapitalist/Innovation-as-a-measure-of-economic-growth)
-
-Interactive economics project exploring how innovation connects with growth and prosperity across countries.
-
-**Stack:** HTML, Bootstrap, Python, economic datasets, GitHub Pages
-
-## Current Focus
-
-- Full-stack development
-- AI agents and automation
-- Fintech and financial education
-- Startup and venture ecosystem
-- Systems design and scalable architecture
-- Product engineering
-
-## Connect
-
-**LinkedIn:** https://www.linkedin.com/in/joao-vitor-carvalho1/
+[LinkedIn](https://www.linkedin.com/in/joao-vitor-carvalho1/)
