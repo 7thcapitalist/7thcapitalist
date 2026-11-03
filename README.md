@@ -4,9 +4,9 @@ CS + Economics at the **University of Notre Dame** (class of 2029), from Goiâni
 
 ## What I'm building
 
-**[AI4accounting](https://github.com/7thcapitalist/AI4accounting)**: AI agents that do the recurring work of Brazilian accounting firms (document collection, checking, reconciliation, tax calculation), sold to the firms as software. A human accountant reviews and signs off; every output traces back to its source document. Brazil's tax reform (CBS/IBS, 2026-2033) forces firms to run two tax systems in parallel for years, which is why now.
+**[Dexa](https://github.com/7thcapitalist/dexa)**: AI agents that do the recurring work of Brazilian accounting firms (document collection, checking, reconciliation, tax calculation), sold to the firms as software. A human accountant reviews and signs off; every output traces back to its source document. Brazil's tax reform (CBS/IBS, 2026-2033) forces firms to run two tax systems in parallel for years, which is why now.
 
-Stage: just starting, no funding. There is a working demo on simulated data ([ai4accounting.vercel.app](https://ai4accounting.vercel.app)) and I am running conversations with accounting firms. The repo is public and developed agent-first, through PRs.
+Stage: just starting, no funding. There is a working demo on simulated data ([ai4accounting.vercel.app](https://ai4accounting.vercel.app)) and I am running conversations with accounting firms. The demo frontend is public; the product source is private and developed agent-first, through PRs.
 
 Co-founders: Vitor Cezario (Harvard) and Pedro Joviano (UChicago). All three of us write code.
 
@@ -24,7 +24,7 @@ Co-founders: Vitor Cezario (Harvard) and Pedro Joviano (UChicago). All three of 
 
 | Project | What it is | Stack |
 |---|---|---|
-| [AI4accounting](https://github.com/7thcapitalist/AI4accounting) | AI agents for Brazilian accounting firms (my current startup) | TypeScript, Next.js, Vercel |
+| [Dexa](https://github.com/7thcapitalist/dexa) | AI agents for Brazilian accounting firms (my current startup). Public demo frontend, simulated data; product source is private | TypeScript, Next.js, Vercel |
 | [Frontstep](https://github.com/7thcapitalist/frontstep) | Finds Brazilian small businesses with no website, builds a preview site with an AI agent and sells it over WhatsApp (early prototype) | JavaScript, n8n |
 | [OpenClaw Agents HQ](https://github.com/7thcapitalist/Openclaw-Agents-Headquarter) | Local "software factory" that runs AI coding agents like an auditable team; I approve every merge | JavaScript, GitHub |
 | [AI4Logistics](https://github.com/7thcapitalist/AI4Logistics) | Fiscal-document compliance for small Brazilian trucking companies (early prototype, no real customers) | TypeScript |
