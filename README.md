@@ -25,7 +25,6 @@ Co-founders: Vitor Cezario (Harvard) and Pedro Joviano (UChicago). All three of 
 | [Frontstep](https://github.com/7thcapitalist/frontstep) | Finds Brazilian small businesses with no website, builds a preview site with an AI agent and sells it over WhatsApp (early prototype) | JavaScript, n8n |
 | [OpenClaw Agents HQ](https://github.com/7thcapitalist/Openclaw-Agents-Headquarter) | Local "software factory" that runs AI coding agents like an auditable team; I approve every merge | JavaScript, GitHub |
 | [AI4Logistics](https://github.com/7thcapitalist/AI4Logistics) | Fiscal-document compliance for small Brazilian trucking companies (early prototype, no real customers) | TypeScript |
-| [egg-champions](https://github.com/7thcapitalist/egg-champions) | Pipeline of AI agents that turns a spec into a Roblox game, plus the first game it built | Luau, JavaScript |
 | [assistente-pessoal](https://github.com/7thcapitalist/assistente-pessoal) | Drafts social posts with AI agents; nothing publishes until I approve | Node.js |
 | [lifemax](https://github.com/7thcapitalist/lifemax) | RPG-style morning ritual app for personal goals (built, not yet in daily use) | TypeScript |
 | [Holding HQ](https://github.com/7thcapitalist/holding-hq-showcase) | Control layer that runs several small "studios" with AI agents: manager agent, budget guard, policy enforced by hooks, PR-only delivery (source private) | Node.js, Claude Code, n8n |
