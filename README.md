@@ -15,7 +15,10 @@ Co-founders: Vitor Cezario (Harvard) and Pedro Joviano (UChicago). All three of 
 - **Norte Ventures** (São Paulo, summer 2026): sourced and diligenced early-stage startups, presented 10+ to the investment committee, and helped build the firm's internal platform (500+ commits, 20+ agents and tools).
 - **Notre Dame Venture Capital**: General Partner on the Norte project; earlier Project Associate for Bain Capital and Teamworthy Ventures.
 - **Escola do Real**: financial education NGO I co-founded in high school. 45 volunteers, 4,000+ students taught, 6+ Brazilian states.
-- Silver medal, International Economics Olympiad (2024); Brazilian national debate team.
+- 45+ medals in olympiads.
+- 6x Brazilian national debate champion.
+- Team Brazil at the World Schools Debating Championship (Hanoi, 2023).
+- Team Brazil at the International Economics Olympiad; silver medal in 2024 (38th of 240 finalists).
 
 ## Public projects
 
