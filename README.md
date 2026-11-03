@@ -34,10 +34,10 @@ Co-founders: Vitor Cezario (Harvard) and Pedro Joviano (UChicago). All three of 
 | [Hackhaton](https://github.com/7thcapitalist/Hackhaton) | Mission Control, our SprintHack@ND 2026 entry: sales pulse, COO scorecard and month-end close for Goodwill Michiana (synthetic data) | Next.js, Turso, Drizzle |
 | [Escola-do-Real-showcase](https://github.com/7thcapitalist/Escola-do-Real-showcase) | Showcase of my financial education app for Brazilians (source is private) | React Native, Expo, Supabase |
 
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/joao-vitor-carvalho1/)
-
 ## More write-ups of private projects
 
 Source stays private; each repo is a README-only overview: [bright-futures-erp](https://github.com/7thcapitalist/bright-futures-erp-showcase), [frontstep-coder](https://github.com/7thcapitalist/frontstep-coder-showcase), [frontstep-dashboard](https://github.com/7thcapitalist/frontstep-dashboard-showcase).
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/joao-vitor-carvalho1/)
