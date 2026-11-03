@@ -40,7 +40,7 @@ Co-founders: Vitor Cezario (Harvard) and Pedro Joviano (UChicago). All three of 
 
 Source stays private; each repo is a README-only overview: [bright-futures-erp](https://github.com/7thcapitalist/bright-futures-erp-showcase), [frontstep-coder](https://github.com/7thcapitalist/frontstep-coder-showcase), [frontstep-dashboard](https://github.com/7thcapitalist/frontstep-dashboard-showcase).
 
-Smaller side projects: [spotify-playlist-skill](https://github.com/7thcapitalist/spotify-playlist-skill) (CLI that turns a prompt into a Spotify playlist) and [Innovation-as-a-measure-of-economic-growth](https://github.com/7thcapitalist/Innovation-as-a-measure-of-economic-growth) (data-storytelling site and regression paper on innovation and GDP per capita), and a World Cup prediction model (Monte Carlo simulation using Polymarket and Kalshi odds).
+Smaller side projects: [spotify-playlist-skill](https://github.com/7thcapitalist/spotify-playlist-skill) (CLI that turns a prompt into a Spotify playlist), [Innovation-as-a-measure-of-economic-growth](https://github.com/7thcapitalist/Innovation-as-a-measure-of-economic-growth) (data-storytelling site and regression paper on innovation and GDP per capita), and a World Cup prediction model (Monte Carlo simulation using Polymarket and Kalshi odds).
 
 ## Contact
 
