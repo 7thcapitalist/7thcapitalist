@@ -22,6 +22,12 @@ Co-founders: Vitor Cezario (Harvard) and Pedro Joviano (UChicago). All three of 
 | Project | What it is | Stack |
 |---|---|---|
 | [AI4accounting](https://github.com/7thcapitalist/AI4accounting) | AI agents for Brazilian accounting firms (my current startup) | TypeScript, Next.js, Vercel |
+| [Frontstep](https://github.com/7thcapitalist/frontstep) | Finds Brazilian small businesses with no website, builds a preview site with an AI agent and sells it over WhatsApp (early prototype) | TypeScript, Next.js, n8n |
+| [OpenClaw Agents HQ](https://github.com/7thcapitalist/Openclaw-Agents-Headquarter) | Local "software factory" that runs AI coding agents like an auditable team; I approve every merge | TypeScript, GitHub |
+| [AI4Logistics](https://github.com/7thcapitalist/AI4Logistics) | Fiscal-document compliance for small Brazilian trucking companies (early prototype, no real customers) | TypeScript |
+| [egg-champions](https://github.com/7thcapitalist/egg-champions) | Pipeline of AI agents that turns a spec into a Roblox game, plus the first game it built | Luau, TypeScript |
+| [assistente-pessoal](https://github.com/7thcapitalist/assistente-pessoal) | Drafts social posts with AI agents; nothing publishes until I approve | Node.js |
+| [lifemax](https://github.com/7thcapitalist/lifemax) | RPG-style morning ritual app for personal goals (built, not yet in daily use) | TypeScript |
 | [Hackhaton](https://github.com/7thcapitalist/Hackhaton) | Mission Control, our SprintHack@ND 2026 entry: sales pulse, COO scorecard and month-end close for Goodwill Michiana (synthetic data) | Next.js, Turso, Drizzle |
 | [Escola-do-Real-showcase](https://github.com/7thcapitalist/Escola-do-Real-showcase) | Showcase of my financial education app for Brazilians (source is private) | React Native, Expo, Supabase |
 | [Norte-NDVC](https://github.com/7thcapitalist/Norte-NDVC) | Static site tracking the founder pipeline NDVC sourced for Norte | HTML, JSON |
@@ -31,3 +37,7 @@ Co-founders: Vitor Cezario (Harvard) and Pedro Joviano (UChicago). All three of 
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/joao-vitor-carvalho1/)
+
+## Private projects with public write-ups
+
+Source stays private; each repo is a README-only overview: [campuscart](https://github.com/7thcapitalist/campuscart-showcase), [holding-hq](https://github.com/7thcapitalist/holding-hq-showcase), [holding-console](https://github.com/7thcapitalist/holding-console-showcase), [bright-futures-erp](https://github.com/7thcapitalist/bright-futures-erp-showcase), [frontstep-coder](https://github.com/7thcapitalist/frontstep-coder-showcase), [frontstep-dashboard](https://github.com/7thcapitalist/frontstep-dashboard-showcase).
