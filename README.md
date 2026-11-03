@@ -28,16 +28,16 @@ Co-founders: Vitor Cezario (Harvard) and Pedro Joviano (UChicago). All three of 
 | [egg-champions](https://github.com/7thcapitalist/egg-champions) | Pipeline of AI agents that turns a spec into a Roblox game, plus the first game it built | Luau, JavaScript |
 | [assistente-pessoal](https://github.com/7thcapitalist/assistente-pessoal) | Drafts social posts with AI agents; nothing publishes until I approve | Node.js |
 | [lifemax](https://github.com/7thcapitalist/lifemax) | RPG-style morning ritual app for personal goals (built, not yet in daily use) | TypeScript |
+| [Holding HQ](https://github.com/7thcapitalist/holding-hq-showcase) | Control layer that runs several small "studios" with AI agents: manager agent, budget guard, policy enforced by hooks, PR-only delivery (source private) | Node.js, Claude Code, n8n |
+| [Holding Console](https://github.com/7thcapitalist/holding-console-showcase) | Read-only dashboard for a holding of business factories; unknown stays unknown, never turned into zeros (source private) | Next.js |
+| [CampusCart](https://github.com/7thcapitalist/campuscart-showcase) | Helps college students buy dorm essentials and textbooks: pick school, dorm and courses, get pre-filled cart links (source private) | Next.js, PostgreSQL |
 | [Hackhaton](https://github.com/7thcapitalist/Hackhaton) | Mission Control, our SprintHack@ND 2026 entry: sales pulse, COO scorecard and month-end close for Goodwill Michiana (synthetic data) | Next.js, Turso, Drizzle |
 | [Escola-do-Real-showcase](https://github.com/7thcapitalist/Escola-do-Real-showcase) | Showcase of my financial education app for Brazilians (source is private) | React Native, Expo, Supabase |
-| [Norte-NDVC](https://github.com/7thcapitalist/Norte-NDVC) | Static site tracking the founder pipeline NDVC sourced for Norte | HTML, JSON |
-| [spotify-playlist-skill](https://github.com/7thcapitalist/spotify-playlist-skill) | CLI that turns a prompt into a real Spotify playlist, with AI similar-artist expansion | TypeScript, Node.js |
-| [Innovation-as-a-measure-of-economic-growth](https://github.com/7thcapitalist/Innovation-as-a-measure-of-economic-growth) | Data-storytelling site and regression paper on innovation and GDP per capita | HTML, Bootstrap |
 
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/joao-vitor-carvalho1/)
 
-## Private projects with public write-ups
+## More write-ups of private projects
 
-Source stays private; each repo is a README-only overview: [campuscart](https://github.com/7thcapitalist/campuscart-showcase), [holding-hq](https://github.com/7thcapitalist/holding-hq-showcase), [holding-console](https://github.com/7thcapitalist/holding-console-showcase), [bright-futures-erp](https://github.com/7thcapitalist/bright-futures-erp-showcase), [frontstep-coder](https://github.com/7thcapitalist/frontstep-coder-showcase), [frontstep-dashboard](https://github.com/7thcapitalist/frontstep-dashboard-showcase).
+Source stays private; each repo is a README-only overview: [bright-futures-erp](https://github.com/7thcapitalist/bright-futures-erp-showcase), [frontstep-coder](https://github.com/7thcapitalist/frontstep-coder-showcase), [frontstep-dashboard](https://github.com/7thcapitalist/frontstep-dashboard-showcase).
